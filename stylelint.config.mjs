@@ -1,3 +1,4 @@
+
 /**
  * @type {import('stylelint').Configuration}
  */
